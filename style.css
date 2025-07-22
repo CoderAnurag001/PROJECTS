@@ -224,3 +224,12 @@ footer {
     flex-direction: column;
   }
 }
+/* changecss */
+.logo_container{
+    height: 70px;
+    width: 70px;
+}
+.logo_container img{
+    height: 100%;
+    width: 100%;
+}
